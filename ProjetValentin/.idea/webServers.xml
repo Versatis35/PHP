@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c3e02ebf-2cd2-4a55-9620-0f6f50c30e67" name="php_projet" url="http://la-myweb.univ-lemans.fr/~i181329">
+        <fileTransfer host="la-myweb.univ-lemans.fr" port="22" rootFolder="/home/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
