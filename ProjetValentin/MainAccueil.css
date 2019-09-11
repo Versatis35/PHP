@@ -1,0 +1,17 @@
+body {
+    background-image: url(FondEcranMain.jpg);
+    background-size:cover;
+    text-align: center;
+}
+
+#EcranConnexion {
+    padding: 1vw;
+    margin: auto auto;
+    background-color: whitesmoke;
+    width:20vw;
+    border-radius: 30px;
+}
+
+form {
+    text-align: left;
+}
