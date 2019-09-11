@@ -15,3 +15,10 @@ body {
 form {
     text-align: left;
 }
+
+#submit {
+    width:100px;
+    margin-left:5px;
+    box-shadow:1px 1px 1px #D83F3D;
+    cursor:pointer;
+}
