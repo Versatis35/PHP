@@ -15,11 +15,12 @@
 
    <!-- TodoMaster-->
            </div>
-           <div id="logOut">
-               <input type="submit" value="Se déconnecter"><br>
-               <input type="submit" value="Supprimer"><br>
-               <input type="submit" value="modifier">
-
+           <div id="logOut" >
+               <form method="post" action="modifier.php" >
+                   <input type="submit" value="modifier">
+               <form/>
+                   <input type="submit" value="Se déconnecter"><br>
+                   <input type="submit" value="Supprimer"><br>
            </div>
        </div>
 
