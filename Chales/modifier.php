@@ -8,7 +8,7 @@ catch(Exception $e) {
    die('Erreur : ' . $e->getMessage());
 }
 
-$reponse = $bdd->query('SELECT * FROM UTILISATEUR WHERE Id_ut="' . $_POST['nom'] . '" AND Mdp_ut="'.$_POST['mdp'].'";');
+$reponse = $bdd->query('SELECT * FROM UTILISATEUR WHERE Id_ut="' . $_POST['nom'] . '" AND Mdp_u t="'.$_POST['mdp'].'";');
 if($reponse->rowCount() == 0){
    header('Location: MainError.php');
 }

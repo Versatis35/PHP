@@ -25,9 +25,9 @@
        </div>
 
        <div class="item nav">
-           Echeance : <input type="text" name="Echéance" size="50"><br><br><br><br><br><br><br>
-           Note : <input type="text" name="Note" size="50"><br><br><br><br><br><br><br>
-           Lien : <input type="text" name="Lien" size="50"><br>
+           Echeance : <input type="text" name="Echéance" size="25"><br><br><br><br><br><br><br>
+           Note : <input type="text" name="Note" size="25"><br><br><br><br><br><br><br>
+           Lien : <input type="text" name="Lien" size="25"><br>
        </div>
 <!--
        <div class="item main">

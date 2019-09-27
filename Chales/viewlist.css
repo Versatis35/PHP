@@ -37,6 +37,9 @@ input[type=submit], input[type=text], input[type=button] {
 .nav {
     grid-column: 1;
     grid-row: 2 / -2;
+    background-color: #f6f6f6;
+    text-shadow: white 1px 1px;
+
 }
 
 .main {
